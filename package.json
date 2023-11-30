@@ -1,0 +1,24 @@
+{
+  "name": "conference-page",
+  "version": "1.0.0",
+  "description": "this is used for the conference page",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatyaaaaSai/Conference-Website.git"
+  },
+  "author": "Satya Sai",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
